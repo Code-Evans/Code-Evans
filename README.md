@@ -28,18 +28,6 @@ I'm a Computer Engineering graduate passionate about cloud systems, cybersecurit
 - **Recognized for teaching Java** during a 1-Day Programming Bootcamp
 - **Top 10 Student Leaders Nominee (2025)**
 
-## 💬 Interests
-Problem-solving, leadership development, cloud technologies, and building impactful communities
-
-## 🧍‍♂️ Personality
-**ENFP-A** — extroverted, curious, and driven by growth
-
-## 📸 Hobbies
-Photography, chess, and exploring tech concepts for fun
-
-## 🐱 Fun Fact
-Cat🐾
-
 ---
 
 ## 🌐 Social Links
