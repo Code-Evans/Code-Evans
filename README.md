@@ -19,7 +19,7 @@ I'm a Computer Engineering graduate passionate about cloud systems, cybersecurit
 
 ## ⚙️ Favorite Projects
 - **MyJavaBasics** — Documenting my journey in mastering Java fundamentals
-- **UpgradesCenter Task Manager** — A productivity web app designed to manage tasks efficiently while exploring modern front-end and backend integrations.
+- **UpgradesCenter Task Manager** — A productivity web app designed to manage tasks efficiently.
 - **AWSLC (AWS Learners Club)** — Student-led club I founded to empower cloud learning and tech leadership
 
 ## 🏆 Achievements
