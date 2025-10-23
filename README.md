@@ -19,7 +19,7 @@ I'm a Computer Engineering graduate passionate about cloud systems, cybersecurit
 
 ## ⚙️ Favorite Projects
 - **MyJavaBasics** — Documenting my journey in mastering Java fundamentals
-- **Central Student Council Website** — The main website of the Central Student Council in my University
+- **UpgradesCenter Task Manager** — A productivity web app designed to manage tasks efficiently while exploring modern front-end and backend integrations.
 - **AWSLC (AWS Learners Club)** — Student-led club I founded to empower cloud learning and tech leadership
 
 ## 🏆 Achievements
