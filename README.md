@@ -31,9 +31,9 @@ I'm a Computer Engineering graduate passionate about cloud systems, cybersecurit
 ---
 
 ## 🌐 Social Links
-- [LinkedIn](#) 
+- [LinkedIn](https://www.linkedin.com/in/adjsevangelista/) 
 - [GitHub](#) 
-- [Portfolio Website](#) *(coming soon!)*
+- [Portfolio Website](evanportfolio.com) *(coming soon!)*
 
 ---
 
