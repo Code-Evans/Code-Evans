@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Evan — aka Code-Evans!
+# 👋 Hi, I'm Evan.
 
 I'm a Computer Engineering graduate passionate about cloud systems, cybersecurity, and software development. I thrive on solving problems, leading tech initiatives, and continuously improving through hands-on learning.
 
@@ -33,7 +33,7 @@ I'm a Computer Engineering graduate passionate about cloud systems, cybersecurit
 ## 🌐 Social Links
 - [LinkedIn](https://www.linkedin.com/in/adjsevangelista/) 
 - [GitHub](#) 
-- [Portfolio Website](evanportfolio.com) *(coming soon!)*
+- [Portfolio Website](evanportfolio.com) 
 
 ---
 
