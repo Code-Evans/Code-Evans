@@ -6,7 +6,7 @@ I'm a Computer Engineering graduate passionate about cloud systems, cybersecurit
 
 ## 💼 Profession
 - **Freelance Web Developer**
-- **Software Engineer**
+- **Software Engineer (Data Analytics & AI Solution)**
 
 ## 🧠 Core Skills
 - Java
